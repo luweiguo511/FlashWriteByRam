@@ -1,9 +1,9 @@
 # Simple Example #
 
-# Hardware #
-## EFM32GG11
+## Hardware ##
+## EFM32GG11 ##
 
-# Devices #
+## Devices ##
 
-# How it Works #
+## How it Works ##
 - EFM32GG11 STK
