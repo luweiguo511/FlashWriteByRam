@@ -7,6 +7,6 @@
 
 ## How it Works ##
 - EFM32GG11 STK
--- Build
--- program
--- start
+- Build
+- program
+- start
